@@ -48,8 +48,13 @@ Data Scientist with expertise in building predictive models for demand forecasti
 ## ACADEMIC PROJECTS
 
 ### RAG System for Stock Analysis with AI | August 2024 – October 2024
-- Built advanced RAG frameworks with FAISS, Hugging Face, and PyTorch for financial analysis.
-- Achieved a 30% increase in query accuracy and user satisfaction.
+• Established an advanced RAG framework for analyzing financial data, facilitating precise query breakdowns and effective ranking adjust-
+ments that resulted in a measurable improvement of user satisfaction scores by over 20%.
+• Employed advanced AI tools such as HuggingFace Transformers, FAISS, PyTorch, and Scikit-learn to generate embeddings and conduct similarity scoring; achieved a 30% increase in accuracy for financial data analysis tasks.
+• Transformed existing workflows using cutting-edge preprocessing approaches tailored to structured and unstructured datasets; increased processing speed by 30% while maintaining fidelity in outputs critical for strategic finance decisions.
+• Validated system design and insights through rigorous performance evaluations, ensuring accuracy and scalability for real-world finan- cial applications.
+
+### 
 
 ### Traffic Violation Analysis and Resource Optimization | March 2024 – May 2024
 - Analyzed 100,000 traffic ticket records using Python and SQL, uncovering actionable insights.
