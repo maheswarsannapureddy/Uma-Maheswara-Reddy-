@@ -16,11 +16,7 @@
 ---
 
 ## PROFILE SUMMARY
-AI Engineer with one years of experience specializing in NLP techniques and object detection systems; led development of scalable agricul-
-tural solutions using YOLOv8 that improved segmentation accuracy by 87%. Attained a 55% enhancement in contextual accuracy through
-an interactive chatbot project utilizing Hugging Face technologies. Recognized for contributions to AI initiatives while promoting within
-one year at Zentron Labs.
----
+AI Engineer with a strong passion for developing Generative AI (GenAI) applications and expertise in Natural Language Processing (NLP), Machine Learning, and Large Language Models (LLMs). Experienced in designing and implementing scalable solutions for advanced text generation, conversational AI, and computer vision tasks. Proficient in leveraging state-of-the-art technologies like LLMs and transfer learning to create impactful AI-driven applications. Actively exploring innovative ways to enhance the effectiveness of GenAI systems while focusing on building robust, user-centric AI solutions.
 
 ## TECHNICAL SKILLS
 <p align="left">
