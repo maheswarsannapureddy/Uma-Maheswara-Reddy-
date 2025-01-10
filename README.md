@@ -73,10 +73,29 @@ one year at Zentron Labs.
 
 - Built an intuitive Streamlit-based frontend to enable real-time user interaction with the API, showcasing seamless integration between web frameworks and state-of-the-art NLP models.
 
-###
+### Grade deployment LLM as API
+
+- Designed and implemented a scalable API server using FastAPI and LangChain, integrating the open-source Ollama (Llama2) model to handle natural language processing tasks, including generating detailed information and creative outputs.
+
+- Developed and secured endpoints for informational and creative tasks by leveraging ChatPromptTemplate and LLMChain, showcasing the versatility of the architecture in handling diverse natural language processing use cases.
+
+- Created an intuitive Streamlit frontend to enable seamless interaction with the FastAPI backend, enhancing user experience with real-time input handling and API responses.
+
+- Utilized open-source tools like FastAPI, LangChain, and Ollama to build a flexible, extensible system, with future-ready capabilities for additional prompts, endpoints, and large-scale deployments.
+
+### Celebrity Chatbot Using Langchain 
+
+- Implemented a multi-step conversational AI chatbot using LangChain and Streamlit, leveraging Llama2 via Ollama for generating insights about celebrities, their achievements, and major world events on specific dates.
+
+- Developed a SequentialChain workflow integrating multiple LLMChains with customized PromptTemplates and ConversationBufferMemory, enabling context-aware and seamless interactions across multiple queries.
+
+- Designed an interactive user interface using Streamlit, allowing real-time user input and displaying chatbot responses with conversational history and detailed contextual outputs.
+
+- Utilized environment variables for secure API key management through dotenv, ensuring the protection of sensitive data and scalability for deployment.
+  
 
 
-## Deep Learning Projects 
+## Advance Deep Learning Projects 
 ### Sentiment-Enhanced Text Analysis for Emoji Prediction  
 **July 2024 – September 2024**  
 - Drove efforts in crafting an advanced text classification system capable of understanding nuanced emotional cues from users while utilizing
@@ -107,14 +126,59 @@ extraction these efforts resulted in notable gains in model performance metrics
 by a soft-max classifier for precise predictions from a 1,000-answer vocabulary.
 - Optimized model performance with RMSProp and categorical cross-entropy loss, achieving 35% validation accuracy on a large-scale
 VQA datasets
+
+## Deep Learning and Machine Learning Projects 
+
 ### Next Word Prediction Using LSTM and RNN  
-**November 2023 – January 2024**  
- - Innovated natural language processing algorithms by integrating RNNs and LSTMs within current systems, yielding a significant boost in
+- Innovated natural language processing algorithms by integrating RNNs and LSTMs within current systems, yielding a significant boost in
 predictive performance for next-word suggestions validated at 87.2% accuracy.
 - Executed rigorous text preprocessing techniques, achieving the removal of over 97% of HTML tags and emojis from datasets this led to a
 significant improvement in model accuracy during validation tests.
 - Realized significant advancements in next-word prediction models achieving an overall accuracy score of 87.2% incorporated strategic
-adjustments like hyperparameter refinement ensuring consistent reliability across diverse text inputs tested for validation purposes. 
+adjustments like hyperparameter refinement ensuring consistent reliability across diverse text inputs tested for validation purposes.
+
+### COVID-19 CT Scan Image Classification Using Deep Learning Models 
+
+- Developed and evaluated deep learning models, including VGG16 and ResNet-50, for COVID-19 classification from CT scan images, achieving 98.25% accuracy with VGG16 through efficient feature extraction and classification.
+
+- Implemented advanced transfer learning techniques with ResNet-50, leveraging residual connections to address the vanishing gradient problem and fine-tuning pretrained weights for enhanced image classification performance.
+
+- Utilized data augmentation techniques such as random rotation, shifts, and flips to create a diverse training set, improving model generalization and reducing overfitting in medical image classification tasks.
+
+- Performed rigorous model evaluation using confusion matrices, ROC curves, and accuracy metrics, showcasing high-performance classification and identifying areas for optimization in deep learning architectures.
+
+### Credit Card Fraud Detection project:
+
+- Developed a robust credit card fraud detection pipeline, incorporating data preprocessing, duplicate removal, and exploratory data analysis (EDA) to address class imbalance and improve data quality.
+
+- Built and evaluated multiple machine learning models, including an Artificial Neural Network (ANN) using TensorFlow/Keras, leveraging Stratified K-Fold Cross-Validation to enhance accuracy and ensure balanced performance.
+
+- Optimized model performance through feature standardization and dataset splitting (70:30), identifying potential areas for improvement in hyperparameter tuning and advanced feature engineering techniques.
+
+### Housing Price predictions 
+- Utilized Principal Component Analysis (PCA) for dimensionality reduction and applied Logistic Regression to analyze housing price prediction, identifying strong correlations between features such as "area" and "bathrooms."
+
+- Preprocessed data with one-hot encoding, feature scaling, and 70:30 train-test splitting, ensuring robust input preparation while highlighting limitations of Logistic Regression for regression tasks.
+
+- Evaluated model performance using R² scores and scatter plots, identifying high prediction errors and recommending alternative approaches for improved housing price prediction accuracy.
+
+### Anomoly Detection Using LSTM 
+- Developed an anomaly detection system for machine temperature data using Long Short-Term Memory (LSTM) networks, effectively identifying patterns indicative of system failures.
+
+- Preprocessed time-series data with MinMaxScaler and handled anomalies by marking and analyzing specific time intervals, ensuring data quality for model training and evaluation.
+
+- Implemented an LSTM-based deep learning model in TensorFlow, leveraging sequential layers to predict anomalies and achieve robust performance on real-world datasets.
+
+- Visualized results using Matplotlib and Seaborn, providing clear insights into anomaly points and improving interpretability for stakeholders.
+
+### EMNIST CLASSIFICATION USING LSTM AND VGG13
+- Designed and implemented a custom Convolutional Neural Network (CNN) architecture with five convolutional layers, max-pooling, and fully connected layers, achieving 92% training accuracy and 89% validation accuracy on the EMNIST dataset.
+
+- Applied advanced regularization techniques, including L2 regularization, dropout, and early stopping, to prevent overfitting and ensure robust model performance across training, validation, and testing phases.
+
+- Enhanced dataset diversity through image augmentation techniques, such as random rotations, horizontal flips, and color jittering, improving the model’s generalization and achieving high classification accuracy for handwritten characters.
+
+
 
 ### Olympic Data Insights: Comprehensive Azure Data Pipeline  
 **September 2023 – November 2023**  
