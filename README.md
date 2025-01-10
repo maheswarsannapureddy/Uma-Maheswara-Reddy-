@@ -55,7 +55,7 @@ one year at Zentron Labs.
 
 ---
 
-## ACADEMIC PROJECTS
+## LangChain and RAG PROJECTS
 
 ### RAG System for Stock Analysis with AI  
 **October 2024 – December 2024**  
@@ -64,6 +64,19 @@ one year at Zentron Labs.
 - Transformed existing workflows using cutting-edge preprocessing approaches tailored to structured and unstructured datasets, increasing processing speed by 30%.  
 - Validated system design and insights through rigorous performance evaluations, ensuring accuracy and scalability for real-world financial applications.  
 
+### API Server with LangChain, Ollama, and OpenAI
+- Developed a scalable API server using FastAPI and LangChain, integrated with the open-source Ollama (Llama2) model to generate both informative content and creative outputs for advanced natural language processing tasks.
+
+- Designed and implemented endpoints for generating detailed information and creative songs, leveraging LLMChain with prompts and achieving seamless interaction between the backend and Streamlit frontend.
+
+- Secured sensitive configurations using dotenv for managing environment variables, ensuring API key security and scalability for deployment in production environments.
+
+- Built an intuitive Streamlit-based frontend to enable real-time user interaction with the API, showcasing seamless integration between web frameworks and state-of-the-art NLP models.
+
+###
+
+
+## Deep Learning Projects 
 ### Sentiment-Enhanced Text Analysis for Emoji Prediction  
 **July 2024 – September 2024**  
 - Drove efforts in crafting an advanced text classification system capable of understanding nuanced emotional cues from users while utilizing
